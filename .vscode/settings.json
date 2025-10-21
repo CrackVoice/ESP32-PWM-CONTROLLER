@@ -1,0 +1,13 @@
+{
+  "C_Cpp.intelliSenseEngine": "default",
+  "idf.espIdfPath": "/Users/adambedoui/hobby/esp/esp-idf",
+  "idf.pythonInstallPath": "/opt/homebrew/bin/python3",
+  "idf.openOcdConfigs": [
+    "board/esp32c6-builtin.cfg"
+  ],
+  "idf.port": "/dev/tty.debug-console",
+  "idf.toolsPath": "/Users/adambedoui/.espressif",
+  "idf.customExtraVars": {
+    "IDF_TARGET": "esp32c6"
+  }
+}
